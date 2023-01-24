@@ -1,0 +1,35 @@
+h5{
+    width: 181px;
+    margin: 13px;
+    border: 1px solid aqua;
+    border-radius: 37%;
+    color: aqua;
+    background-color: white;
+    height: 16px;
+    text-align: center;
+    padding: 8px;
+}
+
+h6{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    color: pink;
+    background-color: blue;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 42px;
+
+
+}
+
+h4{
+    width: 110px;
+    color: #dd7070;
+    background-color: darkgreen;
+    margin: 10px;
+    box-shadow: 10px 5px 5px grey;
+    padding: 10px;
+    height: 24px;
+
+}
