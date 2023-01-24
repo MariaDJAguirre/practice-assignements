@@ -1,0 +1,24 @@
+h1{
+    color: #fba337;
+    background-color: hwb(26 15% 7%);
+    font-weight: bold;
+
+}
+/* h1>summer{
+
+    color: yellow; */
+/* } */
+h2{
+    color: #d35959;
+    background-color: #db9410;
+    text-align: center;
+
+}
+h3{
+    color: #4f94d0;
+    background-color: aqua;
+    text-align: right;
+    text-decoration: underline;
+    font-style: italic;
+    
+}
