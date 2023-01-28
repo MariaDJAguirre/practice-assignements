@@ -1,0 +1,35 @@
+.blue{
+    background-color: blue;
+
+}
+.red{
+    background-color: red;
+
+}
+.green{
+    background-color: green;
+
+}
+.blue, .red, .green{
+    width: 500px;
+    height: 100px;
+    /* dis/play: flex; */
+    /* justify-content: center; */
+    /* margin: 10px 80px; */
+}
+.container{
+    margin: 45px 63px;
+}
+.yellow{
+    background-color: yellow;
+
+
+}
+.green{
+height: 200px;
+width: 200px;
+background-color: greenyellow;
+}
+.border{
+    
+}
